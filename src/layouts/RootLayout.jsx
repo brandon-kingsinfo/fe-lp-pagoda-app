@@ -17,6 +17,7 @@ const RootLayout = () => {
             }}
           >
             <Link to="/query-position">Query Position</Link>
+            <Link to="/me">Me</Link>
             <Link to="/logout">Logout</Link>
           </div>
         </Container>
